@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="7" tests="7" time="0">
+    <testcase classname="Flipkart Application Test" name="Validate User on flipkart Page" time="0">
+        <skipped>
+            <![CDATA[Given user opens the browser................................................undefined
+When user enters url........................................................undefined
+Then user closes the popup..................................................undefined
+Then validate user on home page.............................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Flipkart Application Test" name="Validate user is on Buy Mobiles Page" time="0">
+        <skipped>
+            <![CDATA[Given user search mobile product............................................undefined
+Then validate user is on mobiles page.......................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Flipkart Application Test" name="Validate user able to select specified ram" time="0">
+        <skipped>
+            <![CDATA[Given user selects specified ram type.......................................undefined
+Then validate ram selection.................................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Flipkart Application Test" name="Validate user able to select specified brand" time="0">
+        <skipped>
+            <![CDATA[Given user selects specified brand type.....................................undefined
+Then validate brand selection...............................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Flipkart Application Test" name="Validate user able to select specified mobile name" time="0">
+        <skipped>
+            <![CDATA[Given user selects specified mobile name....................................undefined
+Then validate mobile name selection.........................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Flipkart Application Test" name="Validate user able to select compare product brand" time="0">
+        <skipped>
+            <![CDATA[Given user selects compare brand selection..................................undefined
+Then validate compare brand selection.......................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Flipkart Application Test" name="Validate user able to select compare product mobile name" time="0">
+        <skipped>
+            <![CDATA[Given user selects compare mobile name selection............................undefined
+Then validate compare mobile name selection.................................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
