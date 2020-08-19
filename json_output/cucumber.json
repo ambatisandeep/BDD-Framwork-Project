@@ -162,9 +162,9 @@
       },
       {
         "line": 26,
-        "name": "Validate user able to select compare product brand",
+        "name": "Validate user able to select compare brand and product",
         "description": "",
-        "id": "flipkart-application-test;validate-user-able-to-select-compare-product-brand",
+        "id": "flipkart-application-test;validate-user-able-to-select-compare-brand-and-product",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
@@ -173,7 +173,7 @@
               "status": "undefined"
             },
             "line": 27,
-            "name": "user selects compare brand selection",
+            "name": "user selects compare brand and product selection",
             "match": {},
             "keyword": "Given "
           },
@@ -182,35 +182,7 @@
               "status": "undefined"
             },
             "line": 28,
-            "name": "validate compare brand selection",
-            "match": {},
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 30,
-        "name": "Validate user able to select compare product mobile name",
-        "description": "",
-        "id": "flipkart-application-test;validate-user-able-to-select-compare-product-mobile-name",
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "status": "undefined"
-            },
-            "line": 31,
-            "name": "user selects compare mobile name selection",
-            "match": {},
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "status": "undefined"
-            },
-            "line": 32,
-            "name": "validate compare mobile name selection",
+            "name": "validate compare brand and product",
             "match": {},
             "keyword": "Then "
           }

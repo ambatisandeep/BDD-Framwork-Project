@@ -23,13 +23,11 @@ Scenario: Validate user able to select specified mobile name
 Given user selects specified mobile name
 Then validate mobile name selection 
 
-Scenario: Validate user able to select compare product brand 
-Given user selects compare brand selection 
-Then validate compare brand selection 
+Scenario: Validate user able to select compare brand and product
+Given user selects compare brand and product selection 
+Then validate compare brand and product
 
-Scenario: Validate user able to select compare product mobile name
-Given user selects compare mobile name selection 
-Then validate compare mobile name selection
+
 
 
 

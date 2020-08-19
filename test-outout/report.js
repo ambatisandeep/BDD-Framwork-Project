@@ -156,46 +156,20 @@ formatter.result({
 });
 formatter.scenario({
   "line": 26,
-  "name": "Validate user able to select compare product brand",
+  "name": "Validate user able to select compare brand and product",
   "description": "",
-  "id": "flipkart-application-test;validate-user-able-to-select-compare-product-brand",
+  "id": "flipkart-application-test;validate-user-able-to-select-compare-brand-and-product",
   "type": "scenario",
   "keyword": "Scenario"
 });
 formatter.step({
   "line": 27,
-  "name": "user selects compare brand selection",
+  "name": "user selects compare brand and product selection",
   "keyword": "Given "
 });
 formatter.step({
   "line": 28,
-  "name": "validate compare brand selection",
-  "keyword": "Then "
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.scenario({
-  "line": 30,
-  "name": "Validate user able to select compare product mobile name",
-  "description": "",
-  "id": "flipkart-application-test;validate-user-able-to-select-compare-product-mobile-name",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 31,
-  "name": "user selects compare mobile name selection",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 32,
-  "name": "validate compare mobile name selection",
+  "name": "validate compare brand and product",
   "keyword": "Then "
 });
 formatter.match({});

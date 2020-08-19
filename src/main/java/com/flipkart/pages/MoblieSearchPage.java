@@ -78,7 +78,6 @@ public class MoblieSearchPage extends TestBase {
 		linksAndButtons.searchButton.click();
 		logger.info("Search Button clicked");
 		
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		logger.info(driver.getTitle());
 
 		return Product;
@@ -166,7 +165,6 @@ public class MoblieSearchPage extends TestBase {
 			mobileSelection.click();
 		}
 		logger.info("clicked "+ mobileNameValue);
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		return mobileName;
 	}
 
